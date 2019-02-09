@@ -1,4 +1,4 @@
-package Lesson3;
+﻿package Lesson3;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -9,7 +9,6 @@ public class GuessTheNumber {
     private static int attemptsLeft;
     private static int answer;
 
-    private static boolean correctAnswer = false;
     private static Random random = new Random();
     private static Scanner scanner = new Scanner(System.in);
 
